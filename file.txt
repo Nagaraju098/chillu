@@ -1,6 +1,8 @@
 <html>
 <body>
 <h1> Provide Consultancy </h2>
+<h1> Provide Training </h1>
+<h2> Type of Training </h2>
 </body>
 </html>
 
