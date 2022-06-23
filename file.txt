@@ -1,8 +1,9 @@
 <html>
 <body>
-<h1> Provide Consultancy </h2>
 <h1> Provide Training </h1>
 <h2> Type of Training </h2>
+<h1> Provide Consultancy </h1>
+<h2> Address </h2>
 </body>
 </html>
 
