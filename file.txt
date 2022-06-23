@@ -1,7 +1,6 @@
 <html>
 <body>
 <h1> Provide Consultancy </h2>
-<h2> Address </h2>
 </body>
 </html>
 
